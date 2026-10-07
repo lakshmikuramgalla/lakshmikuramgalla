@@ -1,14 +1,20 @@
-Hi, I'm Lakshmi Kuramgalla 👋
-Python Full-Stack Developer — FastAPI/Django • React • SQL • REST APIs • Docker • CI/CD
+# Hi, I'm Lakshmi Kuramgalla 👋
 
-🔭 Current project: ToDO APP (Auth + Django + MySQL)
-✅ I write tests with pytest and use GitHub Actions (CI)
-🌱 Learning: caching, async, system design basics
-🌐 Portfolio/LinkedIn: www.linkedin.com/in/lakshmikuramgalla • 📫 lakshmikuramgalla@gmail.com
-Tech
-Python, REST API, Django, React, JavaScript, HTML/CSS, PostgreSQL, Git, Docker, Pytest, GitHub Actions
+### Aspiring Python Full-Stack Developer — Python • Django • React • SQL • REST APIs • Git • GitHub
 
-Projects (Pinned below)
-ToDO App – Auth, search, tests, CI
-School App – Django + MySQL + async tasks
-E-Commerce App – Django + REST API  + React
+- 🔭 Currently building my Python full-stack development skills
+- 🌱 Learning Python, Django, React, SQL and REST APIs
+- 💻 Practicing problem solving and building real-world projects
+- 🤖 Exploring AI-assisted software development
+- 🌐 LinkedIn: [linkedin.com/in/lakshmikuramgalla](https://www.linkedin.com/in/lakshmikuramgalla/)
+- 📫 Email: lakshmikuramgalla@gmail.com
+
+## Tech
+
+Python • Django • React • JavaScript • HTML/CSS • SQL • REST APIs • Git • GitHub
+
+## Projects
+
+- 🐍 Python Practice — Python programming and problem-solving exercises
+- 🌐 Frontend Practice — HTML, CSS and JavaScript practice
+- 🚀 To-Do App — Full-stack application currently in development
