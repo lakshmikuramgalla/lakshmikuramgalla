@@ -6,7 +6,7 @@
 - 🌱 Learning Python, Django, React, SQL and REST APIs
 - 💻 Practicing problem solving and building real-world projects
 - 🤖 Exploring AI-assisted software development
-- 🌐 LinkedIn: [linkedin.com/in/lakshmikuramgalla](https://www.linkedin.com/in/lakshmikuramgalla/)
+- 🌐 LinkedIn: (https://www.linkedin.com/in/lakshmikuramgalla/)
 - 📫 Email: lakshmikuramgalla@gmail.com
 
 ## Tech
